@@ -4,7 +4,7 @@
 This exercise will be made outside Zemoga and delivered between the next 3 days that follows this test.
 
 
-## Test Description:
+## Test Description
 
 You will need to create a simple Roku app to demonstrate your knowledge of critical concepts such as:
 
