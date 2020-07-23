@@ -3,7 +3,6 @@
 
 This exercise will be made outside Zemoga and delivered between the next 3 days that follows this test.
 
----
 
 ## Test Description:
 
@@ -18,7 +17,6 @@ Note that the list is intentionally quite short to allow you to determine the be
 
 There is not necessarily a definitive right-or-wrong way to do each part, **but** you should be able to explain your thought process and reasoning in a following interview.
 
----
 
 ## Objective
 
@@ -34,7 +32,6 @@ There is not necessarily a definitive right-or-wrong way to do each part, **but*
 
 * Add another feature to enhance the proposed excercise. Use you creativity (a new view, UI enhancement, component, etc).
 
----
 
 ## Delivery
 
