@@ -21,16 +21,21 @@ There is not necessarily a definitive right-or-wrong way to do each part, **but*
 ## Objective
 
 * Build a channel that allows the user to select an item from a list (rowList) by relying in the following services:
+
   * Categories: [http://34.224.201.25/category](http://34.224.201.25/category)
   * Videos by Category: [http://34.224.201.25/video/category/59246ea5f36d2821ab7a2bf9](http://34.224.201.25/video/category/59246ea5f36d2821ab7a2bf9)
 
-* Requirements: The first row will act as the master head, the second and third as default rowlists, and the fourth as a grid (as seen in the comps).
+* [This is the visual reference you need to reproduce in your app.](https://drive.google.com/file/d/0B7426APrkxrcM0tPQ2RWVmFrc2s/view?usp=sharing)
+
+* Requirements: The first row will act as the master head, the second and third as default rowlists, and the fourth as a grid (as seen in visual reference).
 
 * Please take into account the comp styles and dimentions i.e the row for Drama has a different tile size. (see the link for comps and dimensions)
 
 * Once an item is selected, a new view should be displayed with a native player reproducing the video. Returning to the main screen should be possible by pressing back in the remote control so the user can select another item.
 
 * Add another feature to enhance the proposed excercise. Use you creativity (a new view, UI enhancement, component, etc).
+
+  
 
 
 ## Delivery
